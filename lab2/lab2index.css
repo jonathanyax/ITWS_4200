@@ -1,0 +1,20 @@
+html {
+	font-family: Calibri;
+	color: black;
+	background-color: #B5B598;
+}
+
+h1 {
+	font-size: 40px;
+	text-align: center;
+	text-decoration: underline;
+	
+}
+
+#weather {
+	text-align: center;
+}
+
+#location {
+	font-size: 20px;
+}
